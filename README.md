@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Betzalel75&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
  ## Hi there 👋, I'm Betzalel75 
-- 🔭 I’m currently working on Ray tracing
-- 🌱 I’m currently learning Rust
+<!-- - 🔭 I’m currently working on Ray tracing
+- 🌱 I’m currently learning Rust -->
 <!--
 **Betzalel75/Betzalel75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,18 +15,42 @@ Here are some ideas to get you started:
 -->
 
 ### About Me 💬:    
-I am a great passion for computer science, programming, electronics and IoT. I like to understand how computer systems work. How separate objects work in interaction to make a larger system work. 
+🎓 **Full Stack Developer & Future Systems Engineer**
 
-Currently I’m looking at low level programming with Rust. A language that I’m in love with.
+Holder of a **Bachelor's Degree in Computer Science and Industrial Electronics** (IPG-ISTI) and graduate of **Zone01 Dakar**, I specialize in building robust, high-performance, and secure applications — with a strong focus on low-level systems and infrastructure.
 
+🧠 **Interests**:
+- Embedded systems, systems programming, ELF binary parsing  
+- Desktop app development with **Rust + Slint**  
+- REST APIs and dynamic frontend with Angular  
+- Reverse engineering, offensive cybersecurity  
+- Linux system administration & DevOps  
+- Internet of Things (IoT) & Electronics
+
+🚀 **What drives me**:  
+I'm passionate about understanding how computer systems work. I love analyzing how separate components interact and come together to form larger, functional systems.
+
+📦 **Recent Projects**:
+- System monitoring desktop app using **Rust + Slint**  
+- Manual ELF file parsing from raw assembly  
+- Custom Rust HTTP server with TOML-based configuration  
+- Responsive UI development with Angular
+- 🔧 **Docker Microservices Architecture** – Deployed a full **microservices infrastructure** using Docker & Docker Compose:
+  - 6 services: two PostgreSQL DBs, two apps (inventory/billing), a RabbitMQ queue, and an API gateway.
+  - Designed with **Debian base images**, **custom Dockerfiles**, and **.env-based secrets** (no hardcoded credentials).
+  - Used **Docker volumes** for persistent storage and **Docker networks** for internal service communication.
+  - Architecture built, managed, and destroyed entirely with Docker Compose.
+
+📫 **Reach out**:
+- LinkedIn: [<img https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg title="Linkedin" alt="linkedin" width="55" height="55"/>](https://sn.linkedin.com/in/elvis-bryan-mounguengui-ibounda-787546305)
 
 ## Languages and Tools 
 <div>
 
 ### Languages:
-| Rust | C | JS | C++ | GO |
-|----------|----------|----------|-----|-----|
-|  <img src="assets/rust.png" title="Rust"  alt="Rust" width="90" height="90"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="55" height="55"/>| 
+| Rust | C | JS | C++ | GO | Java |
+|----------|----------|----------|-----|-----|-----|
+|  <img src="assets/rust.png" title="Rust"  alt="Rust" width="90" height="90"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>| 
 
 
 ### My tools for Data Manipulation & Visualisation:
