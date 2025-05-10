@@ -43,7 +43,7 @@ I'm passionate about understanding how computer systems work. I love analyzing h
     - Architecture built, managed, and destroyed entirely with Docker Compose.
 
 📫 **Reach out**:
-- LinkedIn: [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="55" height="55"/>](https://sn.linkedin.com/in/elvis-bryan-mounguengui-ibounda-787546305)
+- [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="55" height="55"/>](https://sn.linkedin.com/in/elvis-bryan-mounguengui-ibounda-787546305)
 
 ## Languages and Tools 
 <div>
