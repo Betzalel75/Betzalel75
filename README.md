@@ -35,13 +35,15 @@ I'm passionate about understanding how computer systems work. I love analyzing h
 - Manual ELF file parsing from raw assembly  
 - Custom Rust HTTP server with TOML-based configuration  
 - Responsive UI development with Angular
-- 🔧 **Docker Microservices Architecture** – Deployed a full **microservices infrastructure** using Docker & Docker Compose:
-  - 6 services: two PostgreSQL DBs, two apps (inventory/billing), a RabbitMQ queue, and an API gateway.
-  - Designed with **Debian base images**, **custom Dockerfiles**, and **.env-based secrets** (no hardcoded credentials).
-  - Used **Docker volumes** for persistent storage and **Docker networks** for internal service communication.
-  - Architecture built, managed, and destroyed entirely with Docker Compose.
+- 🔧 **Docker Microservices Architecture** 
+  - Deployed a full **microservices infrastructure** using Docker & Docker Compose:
+    - 6 services: two PostgreSQL DBs, two apps (inventory/billing), a RabbitMQ queue, and an API gateway.
+    - Designed with **Debian base images**, **custom Dockerfiles**, and **.env-based secrets** (no hardcoded credentials).
+    - Used **Docker volumes** for persistent storage and **Docker networks** for internal service communication.
+    - Architecture built, managed, and destroyed entirely with Docker Compose.
 
 📫 **Reach out**:
+[![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://sn.linkedin.com/in/elvis-bryan-mounguengui-ibounda-787546305)
 - LinkedIn: [<img https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg title="Linkedin" alt="linkedin" width="55" height="55"/>](https://sn.linkedin.com/in/elvis-bryan-mounguengui-ibounda-787546305)
 
 ## Languages and Tools 
