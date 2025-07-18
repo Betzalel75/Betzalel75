@@ -22,7 +22,7 @@ Holder of a **Bachelor's Degree in Computer Science and Industrial Electronics**
 
 🧠 **Interests**:
 - Embedded systems, systems programming, ELF binary parsing  
-- Desktop app development with **Rust + Slint**  
+- Desktop app development with **Rust + Dioxus**  
 - REST APIs and dynamic frontend with Angular  
 - Reverse engineering, offensive cybersecurity  
 - Linux system administration & DevOps  
@@ -32,7 +32,7 @@ Holder of a **Bachelor's Degree in Computer Science and Industrial Electronics**
 I'm passionate about understanding how computer systems work. I love analyzing how separate components interact and come together to form larger, functional systems.
 
 📦 **Recent Projects**:
-- System monitoring desktop app using **Rust + Slint**  
+- System monitoring desktop app using **Rust + Dioxus**  
 - Manual ELF file parsing from raw assembly  
 - Custom Rust HTTP server with TOML-based configuration  
 - Responsive UI development with Angular
