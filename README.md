@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### About Me 💬:    
 🎓 **Full Stack Developer & Future Systems Engineer**
 
-Holder of a **Bachelor's Degree in Computer Science and Industrial Electronics** (IPG-ISTI) and graduate of **Zone01 Dakar**, I specialize in building robust, high-performance, and secure applications — with a strong focus on low-level systems and infrastructure.
+Holder of a **Bachelor's Degree in Computer Science and Industrial Electronics** (IPG-ISTI) and graduate of **Zone01 Dakar**, I specialize in building robust, high-performance, and secure applications with a strong focus on low-level systems and infrastructure.
 
 🧠 **Interests**:
 - Embedded systems, systems programming, ELF binary parsing  
